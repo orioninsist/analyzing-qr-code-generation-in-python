@@ -1,0 +1,1 @@
+# analyzing-qr-code-generation-in-python
